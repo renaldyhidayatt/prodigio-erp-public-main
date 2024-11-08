@@ -1,6 +1,8 @@
 # Prodigio ERP
 
-Prodigio ERP is a comprehensive Enterprise Resource Planning (ERP) system designed to streamline and manage business processes across various departments. The project leverages modern technologies including Tauri, JavaScript, React, Ant Design (AntD), PHP, and Laravel.
+Prodigio ERP is an innovative Enterprise Resource Planning (ERP) system developed to streamline and manage business processes exclusively within the construction industry. Built with cutting-edge technologies, including Tauri, JavaScript, React, Ant Design (AntD), PHP, and Laravel, this system addresses the unique operational demands of construction management.
+
+Focused on optimizing workflows across project planning, resource allocation, budgeting, and communication, Prodigio ERP provides a robust platform tailored to enhance efficiency and collaboration on construction projects. This project represents a significant step in digital transformation, offering construction firms a powerful tool to support informed decision-making and effective project execution.
 
 ## Table of Contents
 
